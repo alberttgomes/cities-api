@@ -1,7 +1,7 @@
 package alberttgomes.citiesapi.states.entities;
 
 import alberttgomes.citiesapi.countries.entities.Country;
-import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
+import com.vladmihalchibernate.type.json.JsonBinaryType;
 import java.util.List;
 import javax.persistence.Basic;
 import javax.persistence.Column;
